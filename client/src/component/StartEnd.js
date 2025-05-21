@@ -47,7 +47,7 @@ const StartEnd = (props) => {
           ) : (
             <div className="container-item">
               <center>
-                <p>Re-deploy the contract to start election again.</p>
+                <p>Thank you for conducting election with us </p>
               </center>
             </div>
           )}
